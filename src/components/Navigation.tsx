@@ -19,7 +19,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <h2 className="text-2xl font-bold bg-gradient-accent bg-clip-text text-transparent">
-              Modish Nest
+              InDesign
             </h2>
           </div>
           

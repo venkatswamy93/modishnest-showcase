@@ -26,7 +26,7 @@ const Hero = () => {
               </h1>
               
               <p className="text-lg text-muted-foreground max-w-xl">
-                At Modish Nest Design Solutions, we create sophisticated interiors that reflect your personality and enhance your lifestyle. From concept to completion, we bring your vision to life.
+                At InDesign, we create sophisticated interiors that reflect your personality and enhance your lifestyle. From concept to completion, we bring your vision to life.
               </p>
             </div>
 
@@ -60,7 +60,7 @@ const Hero = () => {
             <div className="relative overflow-hidden rounded-2xl shadow-medium">
               <img
                 src={heroImage}
-                alt="Modern living room interior design by Modish Nest"
+                alt="Modern living room interior design by InDesign"
                 className="w-full h-[600px] object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-black/20 to-transparent" />

@@ -38,7 +38,7 @@ const About = () => {
               </h2>
               
               <p className="text-lg text-muted-foreground">
-                Founded in 2008, Modish Nest Design Solutions has been transforming homes and commercial spaces across the region. Our passion for innovative design and attention to detail has earned us recognition as one of the leading interior design firms.
+                Founded in 2008, InDesign has been transforming homes and commercial spaces across the region. Our passion for innovative design and attention to detail has earned us recognition as one of the leading interior design firms.
               </p>
               
               <p className="text-muted-foreground">
